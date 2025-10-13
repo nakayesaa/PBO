@@ -1,4 +1,4 @@
 Week7 Documentaion
 
 the result of the code : 
-![altimage](https://github.com/Praktikum-NETICS-2025/jarkom-modul-2-nakayesaa/raw/main/img/week7Documentation.jpg)
+![altimage](https://github.com/nakayesaa/PBO/blob/main/img/week7Documentation.jpg)
