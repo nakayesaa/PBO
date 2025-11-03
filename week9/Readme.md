@@ -29,7 +29,7 @@ public class Command {
         return (secondWord != null);
     }
 }
-
+```java
 
 class Command memiliki fungsi untuk mewakili perintah yang diinput oleh user, class Command memiliki 2 variable yaitu command word dan second word untuk menavigasi
 user. command word digunakan untuk menentukan mode apa yang ditampilkan oleh program, sedangkan second word mewakili keterangan dari command word
